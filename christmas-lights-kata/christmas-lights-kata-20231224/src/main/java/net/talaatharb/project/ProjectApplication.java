@@ -26,5 +26,6 @@ public class ProjectApplication {
 		christmasLights.toggle(831, 394, 904, 860);
 
 		log.info("Total lights on is: {}", christmasLights.getTotalOn());
+		log.info("Total brightness on is: {}", christmasLights.getTotalBrightness());
 	}
 }
