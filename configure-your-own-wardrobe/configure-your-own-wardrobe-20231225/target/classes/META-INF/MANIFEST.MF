@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Class-Path: lombok-1.18.30.jar slf4j-simple-2.0.3.jar slf4j-api-2.0.3.ja
+ r mapstruct-1.5.3.Final.jar
+Main-Class: net.talaatharb.project.ProjectApplication
+Created-By: Maven Integration for Eclipse
+
