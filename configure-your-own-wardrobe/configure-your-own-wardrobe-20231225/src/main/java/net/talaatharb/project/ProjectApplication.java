@@ -20,6 +20,8 @@ public class ProjectApplication {
 		prices.put(100, 90);
 		prices.put(120, 111);
 
+		log.info("For wallSize: {} cm and available sizes: {} cm", wallSize, sizes.toString());
+
 		final var configurations = configurationCreator.createConfigurations(wallSize, sizes);
 		log.info("Available configurations: {}", configurations.toString());
 

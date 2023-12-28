@@ -1,0 +1,5 @@
+# Created at 2023-12-28T16:09:29.528
+Boot Manifest-JAR contains absolute paths in classpath 'D:\workspace\kata-log\ohce\ohce-20231227\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
