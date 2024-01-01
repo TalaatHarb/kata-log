@@ -1,0 +1,5 @@
+# Created at 2023-12-31T14:30:52.799
+Boot Manifest-JAR contains absolute paths in classpath 'D:\workspace\kata-log\parallel-change\parallel-change-20231231\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
